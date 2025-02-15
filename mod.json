@@ -1,0 +1,11 @@
+{
+	"name": "0ad-Zapotec",
+	"version": "0.27.1",
+	"label": "0ad-Zapotec",
+	"url": "",
+	"description": "0 A.D.",
+	"dependencies": [
+		"0ad=0.27.0"
+	],
+	"type": ["Factions"]
+}
